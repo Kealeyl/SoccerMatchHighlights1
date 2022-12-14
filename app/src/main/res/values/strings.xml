@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MOTD</string>
+    <string name="app_name_abridge">Match Of The Day</string>
+    <string name="favourite">Favourites</string>
+    <string name="loading">Buffering</string>
+    <string name="load_success">Access Granted</string>
+    <string name="success">Success</string>
+    <string name="help">Help</string>
+    <string name="help_content">
+        Welcome to Match Of The Day.\n\n
+        Here you can:\n\n
+         1. View highlights of recent football matches.\n\n
+         2. Save your personal favorite highlights.\n\n
+         3. Share your favorite highlights with other users on the app.
+    </string>
+    <string name="parsing_failed_or_empty_data">parsing failed or empty data</string>
+</resources>

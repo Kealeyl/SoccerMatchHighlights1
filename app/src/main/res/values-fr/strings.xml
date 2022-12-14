@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MOTD</string>
+    <string name="app_name_abridge">Match du jour</string>
+    <string name="favourite">favorite</string>
+    <string name="loading">Presque là</string>
+    <string name="success">Accès autorisé</string>
+    <string name="Approved">Succès</string>
+    <string name="help">Aider</string>
+    <string name="help_content">
+        "          Bienvenue au match du jour  \n\n
+        1. Vos moments forts des derniers matchs de football  \n\n
+        2. Regardez des matchs de football du monde entier  \n\n
+        3. Enregistrez vos faits saillants préférés  \n\n
+        4. Partagez vos temps forts préférés avec d'autres utilisateurs sur l'application"</string>
+    <string name="parsing_failed_or_empty_data">l\'analyse des données a échoué ou vide</string>
+</resources>
